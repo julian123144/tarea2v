@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'sistemas kapsu' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'b614aac6b6e28dd7029e7518b0ef89832789fffa1fb318c5' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
